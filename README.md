@@ -12,7 +12,7 @@
 
 ## ✨ I'm open for my next job adventure! 
 
-I am a highly motivated senior software engineer with a special love for all things JavaScript (and TypeScript, too 😅) and testing. I've been working over 5 years in software development and can combine that with substantial knowledge and learnings from more than 20 years professional work experience. 
+I am a highly motivated senior software engineer, working in frontend, with a special love for all things JavaScript (and TypeScript, too 😅) and testing. I've been working over 5 years in software development and can combine that with substantial knowledge and learnings from more than 20 years professional work experience. 
 
 ## ℹ️ Base requirements 
 - fully-remote or remote-first (I'm based in Germany, UTC +2 / CEST)
