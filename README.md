@@ -12,7 +12,7 @@
 
 ## ✨ I'm open for my next job adventure! 
 
-I am a highly motivated *senior software engineer* (frontend! I'm all about frontend!) with a special love for all things JavaScript (and TypeScript, too 😅) and testing. I'm working over 5 years in development and bring substantial experience and learning from all the areas I worked in more than 20 years. 
+I am a highly motivated senior software engineer with a special love for all things JavaScript (and TypeScript, too 😅) and testing. I've been working over 5 years in software development and can combine that with substantial knowledge and learnings from more than 20 years professional work experience. 
 
 ## ℹ️ Base requirements 
 - full-remote or remote-first 
@@ -29,10 +29,10 @@ I am a highly motivated *senior software engineer* (frontend! I'm all about fron
 ### 💻 I care about code and quality
 - I enjoy delivering sustainability: Writing tests and seeing them pass; planning, organizing and improving the software architecture of my project; cleaning up and refactoring. 
 - I want to take ownership of code with my team. 
-- I need to work in an environment and code-base that regards these things as necessary and valuable.
+- I need to work in an environment and code-base that considers these things as necessary and valuable.
 
 ### 🫶 I care about the product
-- I want to be able to be part of discussions on how to bring values for our customers, how to iterate over features. 
+- I want to be able to be part of discussions on how to create value for our customers, how to iterate over features. 
 - I wish for a trustful, respectful relationship with Product Management, where every side respects the expertise of the other and we communicate about needs - for the product, for the code and also for us as humans in our roles.
 
 ### 🏢 I care about company culture
