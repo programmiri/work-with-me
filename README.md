@@ -47,3 +47,5 @@ I am a highly motivated senior software engineer with a special love for all thi
 - [programmiri.rocks](https://programmiri.rocks)
 - [My github account](https://github.com/programmiri)
 - [My LinkedIn profile](https://www.linkedin.com/in/mirjam-aulbach/)
+
+Mail 💌 [me@programmiri.rocks](mailto:me@programmiri.rocks)
