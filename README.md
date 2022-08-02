@@ -27,7 +27,7 @@ I am a highly motivated senior software engineer with a special love for all thi
 - I prefer working in a cross-functional team. Collaborating with everybody and every role in my team is important to me. 
 
 ### 💻 I care about code and quality
-- I enjoy delivering sustainabily: Writing tests and seeing them pass; planning, organizing and improving the software architecture of my project; cleaning up and refactoring. 
+- I enjoy delivering sustainability: Writing tests and seeing them pass; planning, organizing and improving the software architecture of my project; cleaning up and refactoring. 
 - I want to take ownership of code with my team. 
 - I need to work in an environment and code-base that considers these things as necessary and valuable.
 
