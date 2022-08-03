@@ -12,7 +12,7 @@
 
 ## ✨ I'm open for my next job adventure! 
 
-I am a highly motivated senior software engineer, working in frontend, with a special love for all things JavaScript (and TypeScript, too 😅) and testing. I've been working over 5 years in software development and can combine that with substantial knowledge and learnings from more than 20 years professional work experience. 
+I am a highly motivated senior software engineer, working in frontend, with a special love for all things JavaScript (and TypeScript, too 😅) and testing. I've been working over 5 years in software development and combine that with substantial knowledge and learnings from more than 20 years professional work experience. 
 
 ## ℹ️ Base requirements 
 - fully-remote or remote-first (I'm based in Germany, UTC +2 / CEST)
@@ -22,7 +22,7 @@ I am a highly motivated senior software engineer, working in frontend, with a sp
 ## 💁‍♀️ What is important to me in my next job
 
 ### 🧑‍🤝‍🧑 I care about people 
-- I want to work in a fixed team for a longer period in order to have time to build connections, find good ways to communicate and work together and build empathy for each other. In my experience, this makes people in a team productive–and happy. 
+- I want to work in a fixed team for a longer period in order to build connections, find good ways to communicate and work together and build empathy for each other. In my experience, this makes people in a team productive–and happy. 
 - I want to work in a place that consciously gives explicit room to enable people to build this kind of connection and that values the time that is spent on team building and improvement. 
 - I prefer working in a cross-functional team. Collaborating with everybody and every role in my team is important to me. 
 
@@ -40,7 +40,7 @@ I am a highly motivated senior software engineer, working in frontend, with a sp
 - I want to work in an open culture, where frequent feedback is appreciated, safe and honest. 
 - A company's values and culture should be actively lived day to day–especially in stressful times and when hard decisions have to be made. 
 - Transparency is important. It should never end when the shared information feels uncomfortable or is bad news. 
-- Work on diversity and inclusion should be active and visible. This should be driven forward by the management level. 
+- Management actively and visibly drive work on diversity and inclusion forward.
 
 
 ## 🌐 More infos about me
