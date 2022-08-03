@@ -1,13 +1,13 @@
 # Work with me 👩‍💻
 =============================
 
-- [Base requirements](#base-requirements)
-- [What is important to me in my next job](#What-is-important-to-me-in-my-next-job)
-    + [I care about people](#I-care-about-people)
-    + [I care about code and quality](#I-care-about-code-and-quality)
-    + [I care about the product](#I-care-about-the-product)
-    + [I care about company culture](#I-care-about-company-culture)
-- [More infos about me](#more-infos-about-me)
+- [Base requirements](#-base-requirements)
+- [What is important to me in my next job](#-what-is-important-to-me-in-my-next-job)
+    + [I care about people](#-i-care-about-people)
+    + [I care about code and quality](#-i-care-about-code-and-quality)
+    + [I care about the product](#-i-care-about-the-product)
+    + [I care about company culture](#-i-care-about-company-culture)
+- [More infos about me](#-more-infos-about-me)
 
 
 ## ✨ I'm open for my next job adventure! 
