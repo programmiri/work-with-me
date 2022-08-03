@@ -44,7 +44,7 @@ I am a highly motivated senior software engineer, working in frontend, with a sp
 
 
 ## 🌐 More infos about me
-
+- [Feedback from people that worked with me](https://www.linkedin.com/in/mirjam-aulbach/details/recommendations/?detailScreenTabIndex=0)
 - [programmiri.rocks](https://programmiri.rocks)
 - [My github account](https://github.com/programmiri)
 - [My LinkedIn profile](https://www.linkedin.com/in/mirjam-aulbach/)
