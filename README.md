@@ -17,7 +17,7 @@ I am a highly motivated senior software engineer, working in frontend, with a sp
 ## ℹ️ Base requirements 
 - fully-remote or remote-first (I'm based in Germany, UTC +2 / CEST)
 - the possibility to work 35hrs/week
-- a long-term software product 
+- working on a software product (no project-based work)
 
 ## 💁‍♀️ What is important to me in my next job
 
